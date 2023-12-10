@@ -1,0 +1,17 @@
+{
+  "name": "the-base",
+  "version": "1.0.0",
+  "description": "a test repo to configure nodejs and mongodb",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.0.3"
+  }
+}
